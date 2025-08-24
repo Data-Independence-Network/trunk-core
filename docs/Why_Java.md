@@ -23,7 +23,7 @@ GraalJS and run in the same process with server infrastructure.
 
 ## 3 - It can be file access efficient
 
-With the same core goal of a minimal cost server for small family/group serers in mind:
+With the same core goal of a minimal cost server for small family/group server in mind:
 * [Chronile Queue](https://github.com/OpenHFT/Chronicle-Queue) provides off-heap file
 management with random queue access which can be embeded into a monolithic micro
 trunk/branch for small family/group servers.
