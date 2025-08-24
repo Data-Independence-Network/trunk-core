@@ -13,7 +13,7 @@ it's very familiar to the initial programmer for DIN.
 
 A core goal of DIN is to provide the ability to run small family/group servers at minimal
 cost. Writing server code in Java is ideal for this:
-* [GraalVM](https://www.graalvm.org/) can compile Java to statically linked native code
+* [GraalVM](https://www.graalvm.org/) can compile Java to statically linked native binary
 that can run in a scratch image (without an OS wrapper or libraries, with just the one
 binary) and provides build-time initialization mechanisms to remove runtime checks.
 * [Quarkus](https://quarkus.io/) is a [Vert.x](https://vertx.io/) based web framework that
