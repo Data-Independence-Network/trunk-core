@@ -6,7 +6,7 @@ The reason why Java is chosen.
 
 Java is the most popular framework for writing server code, period.  Also it's syntactically
 close to TypeScript which makes it a natural choice for DIN since
-[BD][https://github.com/beyond-decentralized] code is in TypeScript.  Even more importantly
+(Beyond Decentralized)[https://github.com/beyond-decentralized] code is in TypeScript.  Even more importantly
 it's very familiar to the initial programmer for DIN.
 
 ## 2 - It can be CPU & RAM efficient
