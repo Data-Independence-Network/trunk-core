@@ -27,8 +27,8 @@ bytecode via GraalJS and run in the same process as the rest of the server infra
 With the same core goal of a minimal cost, small family/group server in mind:
 * [Chronile Queue](https://github.com/OpenHFT/Chronicle-Queue) is a ultra-low-latency
 queue server which provides off-heap storage with random queue access and can be embeded
-into the same micro trunk+[branch](Data-Independence-Network/branch-core) binary (for small
-family/group servers).
+into the same micro trunk+[branch](https://github.com/Data-Independence-Network/branch-core)
+binary (for small family/group servers).
 * Once code stability has been proven, SQLite can also be embedded into the same GraalVM
 binary (again for micro servers).
 * The entire small family/group server can run in one process, sharing its memory and
