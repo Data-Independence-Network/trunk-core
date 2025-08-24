@@ -29,7 +29,7 @@ With the same core goal of a minimal cost, small family/group server in mind:
 management with random queue access which can be embeded into the same micro
 trunk/branch binary (for small family/group servers).
 * Once code stability has been proven, SQLite can also be embedded into the same GraalVM
-binary (again for the same micro servers).
+binary (again for micro servers).
 * The entire small family/group server can run in one process, sharing its memory and
 making it optimal for deployment on shared VCPU infrastructure.  Possibly it can be made
 to (or may already be capable of) run(ning) everything in the same OS thread (if needed).
