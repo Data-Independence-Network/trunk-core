@@ -22,6 +22,7 @@ optimizes OS thread utilization.
 * [AIRport](https://github.com/beyond-decentralized/AIRport) JS apps can compile to JVM
 bytecode via GraalJS and run in the same process as the rest of the server infrastructure.
 * Microcontainers with scratch DIN images can be started on demand in tens of milliseconds and brought down even quicker. A large pool of microcontainers can share the same CPU due to low frequency usage of family and small group servers.
+* Theoretically if supported by Assembly Script the AIRport framework and Typescript Apps can run in an embedded WASM container, reducing resource usage and significantly reducing effective container availability delay.
 
 ## 3 - It can be file access efficient
 
