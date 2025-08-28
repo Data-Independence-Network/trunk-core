@@ -110,7 +110,7 @@ Phase 2 and Phase 3 of NLNM simulation will necessitate the development of the r
 
 ### Load detection
 
-Eventually, to ensure proper load balancing all Branches will track the load on their underlying hardware to maintain communication with the rest of the Branch nodes of the same Trunk.
+Eventually, to ensure proper load balancing all Branches will track the load on their underlying hardware to maintain communication with the rest of the Branch nodes of the same Trunk. As is now apparent, this must be done after Phase 3 to only subsequently introduce the additional layer of complexity and let the professionals deal with that.
 
 ### For Votes
 
