@@ -67,7 +67,7 @@ Pure Branch nodes act as data sharing funnels and allow spreading of data synchr
 
 Trunk nodes aggregate the data from their Branches and communicate with other Trunks to synchronize data that spans multiple Trunks (where accounts from multiple networks participate in the same Repositories or interdependent Repository sets).
 
-### Real time data feeds
+### Real time data feeds
 
 It was the technical NLNM Simulation that drove the selection of real time data feeds from Branches to Leave nodes (to enable real time interaction between Leave nodes).  NLNM simulations are (being) designed to run between 3 dedicated Trunks (likely in a combined Trunk+single Branch configuration), with two trunks belonging to the opposing sides and one to the Arbiters.
 
