@@ -113,9 +113,11 @@ To meet the 2031 Phase 1 NLNM simulation deadline, an initial naive implementati
 
 Phase 2 and Phase 3 of NLNM simulation will necessitate the development of the rest of the core stack.
 
-### Load detection
+### Update 9/12/2025 Load detection 
 
-Eventually, to ensure proper load balancing all Branches will track the load on their underlying hardware to maintain communication with the rest of the Branch nodes of the same Trunk. As is now apparent, this must be done after Phase 3 to only subsequently introduce the additional layer of complexity and let the professionals deal with that.
+Think about it - forced poll shutdown is the best indicator in itself.  And each region/municipality of a metro area should be responsible for its residents access only.
+
+~Eventually, to ensure proper load balancing all Branches will track the load on their underlying hardware to maintain communication with the rest of the Branch nodes of the same Trunk. As is now apparent, this must be done after Phase 3 to only subsequently introduce the additional layer of complexity and let the professionals deal with that.~
 
 ### For Votes
 
