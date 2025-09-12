@@ -1,1 +1,1 @@
-First DIN trees will be tiny, fully functioning tree-branch combinations with a single leaf attached.  The will be two "saplings" with a fully implemented cross-tree messaging protocol.
+First DIN trees will be tiny, fully functioning tree-branch combinations with a single leaf attached.  First network will have one leaf "saplings" with a fully implemented cross-tree messaging protocol. AIR based communication between node branches will also be implemented TO DO.
