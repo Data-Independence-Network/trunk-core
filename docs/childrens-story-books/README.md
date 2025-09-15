@@ -1,6 +1,6 @@
 # Story Books for Children
 
-Doubling as requirements with module [input - output](https://github.com/beyond-decentralized/AIRroot/issues/4) specifications.
+Doubling as requirements with module [input-output](https://github.com/beyond-decentralized/AIRroot/issues/4) specifications.
 
 The idea is to write different books about coconut trees. Let's see if we can make any age appropriate book on coconut trees become the requirements for the DIN project!
 
