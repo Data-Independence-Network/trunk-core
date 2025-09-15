@@ -6,7 +6,7 @@ The idea is to write different books about coconut trees. Let's see if we can ma
 
 ## Types of Story Books for Children
 
-Toddler books the are highest level requirements - like a mission statement.
+[Toddler books](./Age_1_to_3) the are highest level requirements - like a mission statement.
 
 Books for children 3-5 years old are high-level requirements -  on reliability and security.
 
