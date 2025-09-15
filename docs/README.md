@@ -1,5 +1,9 @@
 # Trunk core and general core documentation
 
+## Story Books for Children
+
+The most imporant of Story Books!  Lets make them the [requirements](./childrens-story-books) for the project!
+
 ## Why Java
 
 The reasons why [Java](./Why_Java.md) was chosen for DIN infrastructure code.
